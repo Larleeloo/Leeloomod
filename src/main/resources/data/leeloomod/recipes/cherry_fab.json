@@ -1,0 +1,12 @@
+{
+  "type": "leeloomod:mauvinite_refining",
+  "ingredients": [
+    {
+      "item": "leeloomod:fab_cherry"
+    }
+  ],
+  "output": {
+    "count": 64,
+    "item": "minecraft:cherry_wood"
+  }
+}

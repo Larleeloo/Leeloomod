@@ -1,0 +1,12 @@
+{
+  "type": "leeloomod:mauvinite_refining",
+  "ingredients": [
+    {
+      "item": "leeloomod:fab_birch"
+    }
+  ],
+  "output": {
+    "count": 64,
+    "item": "minecraft:birch_wood"
+  }
+}

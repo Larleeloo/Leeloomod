@@ -1,0 +1,12 @@
+{
+  "type": "leeloomod:mauvinite_refining",
+  "ingredients": [
+    {
+      "item": "leeloomod:fab_acacia"
+    }
+  ],
+  "output": {
+    "count": 64,
+    "item": "minecraft:acacia_wood"
+  }
+}

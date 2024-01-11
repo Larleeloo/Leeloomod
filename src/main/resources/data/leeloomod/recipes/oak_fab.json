@@ -1,0 +1,12 @@
+{
+  "type": "leeloomod:mauvinite_refining",
+  "ingredients": [
+    {
+      "item": "leeloomod:fab_oak"
+    }
+  ],
+  "output": {
+    "count": 64,
+    "item": "minecraft:oak_wood"
+  }
+}

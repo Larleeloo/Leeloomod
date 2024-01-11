@@ -1,0 +1,12 @@
+{
+  "type": "leeloomod:mauvinite_refining",
+  "ingredients": [
+    {
+      "item": "leeloomod:strange_stone"
+    }
+  ],
+  "output": {
+    "item": "leeloomod:strange_debris",
+    "count": 3
+  }
+}

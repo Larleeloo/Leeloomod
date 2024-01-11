@@ -1,0 +1,12 @@
+{
+  "type": "leeloomod:mauvinite_refining",
+  "ingredients": [
+    {
+      "item": "leeloomod:embedded_mauvinite"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "leeloomod:mauvinite_shard"
+  }
+}
