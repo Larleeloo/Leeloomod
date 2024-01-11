@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "L": {
+      "item": "leeloomod:lava_sponge_block_full"
+    },
+    "M": {
+      "item": "leeloomod:mauvinite"
+    }
+  },
+  "pattern": [
+    "GML",
+    "MMM",
+    "LMG"
+  ],
+  "result": {
+    "item": "leeloomod:encapsulated_mauvinite"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "leeloomod:mauvinite"
+  },
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "result": {
+    "item": "leeloomod:mauvinite_leggings"
+  },
+  "template": {
+    "item": "leeloomod:encapsulated_mauvinite"
+  }
+}

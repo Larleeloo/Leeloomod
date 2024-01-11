@@ -1,0 +1,19 @@
+{
+  "values": [
+    "leeloomod:sapphire_block",
+    "leeloomod:raw_sapphire_block",
+    "leeloomod:sapphire_ore",
+    "leeloomod:deepslate_sapphire_ore",
+    "leeloomod:nether_sapphire_ore",
+    "leeloomod:end_stone_sapphire_ore",
+    "leeloomod:sound_block",
+    "leeloomod:encapsulated_mauvinite",
+    "leeloomod:amber_block",
+    "leeloomod:embedded_amber",
+    "leeloomod:lava_sponge_block",
+    "leeloomod:strange_stone",
+    "leeloomod:embedded_mauvinite",
+    "leeloomod:mauvinite_refiner",
+    "leeloomod:lava_sponge_block_full"
+  ]
+}

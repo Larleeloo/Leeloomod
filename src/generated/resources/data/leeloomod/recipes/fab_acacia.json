@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "leeloomod:block_fab"
+    },
+    {
+      "item": "minecraft:acacia_log"
+    }
+  ],
+  "result": {
+    "item": "leeloomod:fab_acacia"
+  }
+}

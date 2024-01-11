@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "leeloomod:mauvinite"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "result": {
+    "item": "leeloomod:mauvinite_sword"
+  },
+  "template": {
+    "item": "leeloomod:encapsulated_mauvinite"
+  }
+}

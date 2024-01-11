@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "M": {
+      "item": "leeloomod:mauvinite"
+    }
+  },
+  "pattern": [
+    "ICI",
+    "IMI",
+    "ICI"
+  ],
+  "result": {
+    "item": "leeloomod:mauvinite_refiner"
+  },
+  "show_notification": true
+}

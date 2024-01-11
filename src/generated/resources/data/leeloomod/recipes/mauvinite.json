@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "leeloomod:amber_block"
+    },
+    "M": {
+      "item": "leeloomod:mauvinite_shard"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "MAM",
+    "MMM"
+  ],
+  "result": {
+    "item": "leeloomod:mauvinite"
+  },
+  "show_notification": true
+}
